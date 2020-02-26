@@ -1,0 +1,109 @@
+
+body{
+	margin: 0px;
+	padding: 0px;
+	background:#373737;
+
+}
+
+
+.header{
+	height: 70px;
+	background: #ccc;
+	padding: 0 20px;
+}
+
+.logo{
+	line-height: 50px;
+	float: left;
+	color: #303030;
+	font-size: 30px;
+	opacity: 0.5;
+}
+
+.menu{
+	line-height: 50px;
+	float: right;	
+}
+
+
+.menu a{
+	color: #fff;
+	padding: 0 10px;
+	text-decoration: none;
+
+}
+
+.menu a:hover{
+	color: #3498db;
+}
+
+img{
+	width: 100%;
+	height: 300px;
+}
+
+
+
+.id{
+	margin-left: 30px;
+	display: inline-block;
+	/*height: 100px;*/
+	color: #fff;
+	width: 30%;
+}
+.title_h3{
+	margin-left: 3px;
+}
+
+p{
+	height: 150px;
+	
+	position: center;
+}
+
+h3{
+
+	background: #303030;
+	height:30px; 
+	
+
+}
+
+
+.footer{
+	text-align: center;
+	border-top: 1px solid #fff;
+	background: #303030;
+	color: white;
+	font-size:14px;
+	margin-top: 200px;
+	
+	margin-bottom: 10px;
+
+}
+
+p a{
+	color: #ffff00;
+}
+
+.footer p{
+	
+	
+	
+	text-align: center;
+	display:inline-block;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+
+
+
+}
+
+
+
+
+
+
+
